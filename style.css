@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+.nav-titel{
+    height: 100px;
+    width: 800px;
+    background-color: skyblue;
+    margin:  auto;
+}
+
+.nav-titel ul li{
+    list-style-type: none;
+    margin: 20px;
+    float: left;
+    padding-right: 80px;
+}
+
+.nav-titel ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    cursor: help; 
+}
+.nav-titel ul li a:hover{
+    text-decoration: underline;
+    text-decoration-color:black;
+}
